@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+void voidincr(int *a) { *a = (*a) + 1; }
+
+int main()
+{
+    int x = 5;
+    incr(&x);
+    printf("%d", x); /* ce programme affiche 6 */
+    return 0;
+}

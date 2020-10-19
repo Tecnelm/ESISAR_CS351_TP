@@ -1,0 +1,1 @@
+Les valeurs choisie sont des valeurs entière trié aléatoirement dans le fichier, elle teste correctement la fonction de tri car elle sont dans un ordre aléatoire.
