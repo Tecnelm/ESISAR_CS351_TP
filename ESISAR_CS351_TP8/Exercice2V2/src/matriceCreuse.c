@@ -72,7 +72,7 @@ void insertElement(int x, int y, int value, Matrice *matrice)
     }
     else
     {
-        if (!value)
+        if (value)
             fprintf(stderr, "ERROR BAD POSITION \n");
     }
 }
